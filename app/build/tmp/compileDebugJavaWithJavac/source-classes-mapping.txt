@@ -1,0 +1,10 @@
+com/example/android_todo_first/TodoActivity.java
+ com.example.android_todo_first.TodoActivity
+ com.example.android_todo_first.TodoActivity$1
+ com.example.android_todo_first.TodoActivity$2
+ com.example.android_todo_first.TodoActivity$3
+com/example/android_todo_first/TodoDetailActivity.java
+ com.example.android_todo_first.TodoDetailActivity
+ com.example.android_todo_first.TodoDetailActivity$1
+com/example/android_todo_first/BuildConfig.java
+ com.example.android_todo_first.BuildConfig
